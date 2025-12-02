@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  HeroRandomizer
-//
-//  Created by Arman Myrzakanurov on 13.11.2024.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
